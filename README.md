@@ -18,7 +18,7 @@ Class08 | [CLICK!](https://alaaalmasri12.github.io/reading-notes/class-08)
 --- | --- 
 Class09 | [CLICK!](https://alaaalmasri12.github.io/reading-notes/class-09)
 --- | --- 
-Class10 | [CLICK!]https://alaaalmasri12.github.io/reading-notes/class-10)
+Class10 | [CLICK!](https://alaaalmasri12.github.io/reading-notes/class-10)
 --- | --- 
 Class11 | [CLICK!](https://alaaalmasri12.github.io/reading-notes/class-0111)
 --- | --- 
