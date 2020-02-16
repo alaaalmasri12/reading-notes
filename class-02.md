@@ -51,8 +51,11 @@ Q1)before you write your javascript what thing you need to do ?
 theres 2 types of comments
 -single-line-comment:`//`
 -multi-line-comment:`/**/`
+
 Q2) what is a variable?
 *variable**:is a script that can store bits of information and use anywhere in the website.
+
+
 Q3)how to Declare a variable?
 ex:
 >let a=5; or var=10; you can choose the type of value and store it in variable.
@@ -61,12 +64,18 @@ Q4)what Data types used in javascript?
 2. float
 3.boolean
 4. object 
-5. Stringsa
+5. Strings
+
+
+
 Q5)what is the rules of naming variables
 A)it must begin with a character or _ and you cant use numbers or special symbols at the beginning of a variable and best practice to use camel case.
 # Array
 so what is an array
 **Array**:is a special type of variable that can store a list of values.
+
+
+
 Q6)how to define arrays
 ex:
 `var food=['cheese','spagtti','ice-cream'];`   
@@ -74,6 +83,8 @@ ex:
 # Conditions and For loops
 >we use a lot of conditions like if ifelse switch turnry operator that a determince which code block can
 be executed.
+
+
 Q7)what are the conditions to execute a deccison 
 -experssion is evluated and it must return a true value
 -you need to write the correct syntax for the condition that are you using
@@ -82,7 +93,10 @@ Q7)what are the conditions to execute a deccison
 `!=`:if its not equal the value
 `===` if its equal the value and the type of the variable
 # IF statment 
-8)how IF statment works?
+
+
+
+Q8)how IF statment works?
 A)  IF statment eveluates or checks if the value true it execute the block code other wise
 it execute the else block code
 >info:we can use ifelse to have more than one condition
