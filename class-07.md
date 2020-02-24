@@ -33,4 +33,10 @@ const employees = {
     accountant: 'Oscar'
 }
 const keys = Object.keys(employees);
-The Object.entries() method will only return the object instance’s own properties, and not any properties that may be inherited through its prototype.
+The Object.entries() method will only return the object instances own properties, and not any properties that may be inherited through its prototype.
+Sometimes we need a "blueprint" for creating many objects of the same type.
+
+The way to create an "object type", is to use an object constructor function.
+example:
+var myFather = new Person("John", "Doe", 50, "blue");
+var myMother = new Person("Sally", "Rally", 48, "green")
