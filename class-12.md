@@ -2,8 +2,8 @@
 `<canvas>` :element is used to draw graphics, on the fly, via JavaScript and its  only a container for graphics. You must use JavaScript to actually draw the graphics.
 > Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
 ## how to draw Shapes using Canvas
-The `<canvas>` element can be styled just like any normal image margin, border, background. These rules, however, don't affect the actual drawing on the canvas. 
- <canvas> only supports two primitive shapes: rectangles and paths lists of points connected by lines. All other shapes must be created by combining one or more paths.
+The  canvas element can be styled just like any normal image margin, border, background. These rules, however, don't affect the actual drawing on the canvas. 
+ canvas only supports two primitive shapes: rectangles and paths lists of points connected by lines. All other shapes must be created by combining one or more paths.
  there are three functions that draw rectangles on the canvas:
  1.fillRect(x, y, width, height)
  2.strokeRect(x, y, width, height)
