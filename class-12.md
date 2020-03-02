@@ -2,14 +2,14 @@
 `<canvas>` :element is used to draw graphics, on the fly, via JavaScript and its  only a container for graphics. You must use JavaScript to actually draw the graphics.
 > Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
 ## how to draw Shapes using Canvas
-The <canvas> element can be styled just like any normal image margin, border, background. These rules, however, don't affect the actual drawing on the canvas. 
+The `<canvas>` element can be styled just like any normal image margin, border, background. These rules, however, don't affect the actual drawing on the canvas. 
  <canvas> only supports two primitive shapes: rectangles and paths lists of points connected by lines. All other shapes must be created by combining one or more paths.
  there are three functions that draw rectangles on the canvas:
  1.fillRect(x, y, width, height)
  2.strokeRect(x, y, width, height)
  3.clearRect(x, y, width, height)
 
-#what is chart js
+# what is chart js
 :Chart.js is a free open-source JavaScript library for data visualization, which supports 8 chart types: bar, line, area, pie, bubble, radar, polar, and scatter
 steps in applaying chart js in your web page
 1. download Chart.js. Copy the Chart.min.js out of the unzipped folder and into the directory you’ll be working in
