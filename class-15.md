@@ -1,0 +1,3 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+Julia Rozovsky Situatuion
+Rozovsky’s study group was a source of stress and The team’s dynamics could put her on edge and every one was not respectful to each other ideas and they want to force thier ideals on onthers without approving on it  People would try to show authority by speaking louder or talking over each other so Rozovsky’s started to look for onther groups and she found a group for case competitions contests she started messaging them with dumb jokes and theu have came along with each other an dthen they start to have brain storming for ideas
